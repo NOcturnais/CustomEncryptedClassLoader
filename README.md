@@ -1,0 +1,2 @@
+# CustomEncryptedClassLoader
+Owi
